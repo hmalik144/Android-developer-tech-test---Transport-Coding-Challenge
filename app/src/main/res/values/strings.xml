@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transport Coding Challenge</string>
+    <string name="action_sign_in_short">Submit</string>
+    <string name="search_hint">Search by road Id (eg. A40)</string>
+    <string name="road_status">Road Status</string>
+    <string name="road_description">Road Description</string>
+</resources>
